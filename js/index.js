@@ -48,7 +48,7 @@ atencion.appendChild(texatencion);
 
 const btoatencion = document.createElement('button');
 let texbtoatencion = document.createElement('a');
-texbtoatencion.href='http://127.0.0.1:5500/especialidades.html'
+texbtoatencion.href='https://johpser.github.io/johpser2dapreentrega/especialidades.html'
 texbtoatencion.textContent = 'RESERVAR CITA'
 texbtoatencion.style.color = 'inherit'; 
 texbtoatencion.style.textDecoration = 'none';
